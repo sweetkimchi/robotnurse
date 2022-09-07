@@ -12,7 +12,7 @@ This project implements a simulation for training robot nurse AI.
 
 ### Running the Program
 *
-### How To Play
+### How To Run
 * Data files needed:
 
 ### Features implemented:
