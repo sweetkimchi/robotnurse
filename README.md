@@ -11,10 +11,10 @@ Yujie Zheng, Jiyun Hyo
 
 ### Running the Program
 *
-#### How To Play
+### How To Play
 * Data files needed:
 
-**Features implemented:**
+### Features implemented:
 *
 ### Notes/Assumptions
 
