@@ -7,6 +7,9 @@ This project implements a simulation for training robot nurse AI.
 ### Timeline
 * Start Date: 9/1/2022
 
+### Python Version
+* 3.10.4
+
 ### Resources Used
 *
 
