@@ -8,7 +8,7 @@ Yujie Zheng, Jiyun Hyo
 Start Date: 9/1/2022
 
 ### Resources Used
-
+*
 
 ### Running the Program
 
