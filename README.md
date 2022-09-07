@@ -11,7 +11,7 @@ This project implements a simulation for training robot nurse AI.
 * 3.10.4
 
 ### Resources Used
-*
+* ProcTHOR - https://github.com/allenai/procthor
 
 ### Running the Program
 *
