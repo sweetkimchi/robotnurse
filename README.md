@@ -1,6 +1,6 @@
 This project implements a simulation for training robot nurse AI.
 
-###Names:
+### Names:
 Yujie Zheng, Jiyun Hyo
 
 ### Timeline
