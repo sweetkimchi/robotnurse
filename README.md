@@ -1,6 +1,8 @@
 This project implements a simulation for training robot nurse AI.
 
-### Names: Yujie Zheng, Jiyun Hyo
+### Names: 
+* Yujie Zheng
+* Jiyun Hyo
 
 ### Timeline
 * Start Date: 9/1/2022
