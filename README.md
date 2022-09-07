@@ -12,6 +12,7 @@ This project implements a simulation for training robot nurse AI.
 
 ### Resources Used
 * ProcTHOR - https://github.com/allenai/procthor
+* ManipulaTHOR - https://ai2thor.allenai.org/manipulathor/documentation/#movement
 
 ### Running the Program
 *
