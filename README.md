@@ -4,8 +4,7 @@ This project implements a simulation for training robot nurse AI.
 Yujie Zheng, Jiyun Hyo
 
 ### Timeline
-*
-Start Date: 9/1/2022
+* Start Date: 9/1/2022
 
 ### Resources Used
 *
@@ -13,8 +12,7 @@ Start Date: 9/1/2022
 ### Running the Program
 *
 #### How To Play
-*
-Data files needed:
+* Data files needed:
 
 **Features implemented:**
 *
