@@ -13,10 +13,10 @@ p.loadURDF("plane.urdf", [0,0,0],[0,0,0,1])
 targid = p.loadURDF("franka_panda/panda.urdf",[0,0,0],[0,0,0,1], useFixedBase=True)
 obj_of_focus = targid
 
-p.getNumJoints(targid)
+print("There are {} joint(s)".format(p.getNumJoints(targid)))
 jointid = 4
-jType = p.getJointInfo(targid, jointid)[2]
-jLower = p.getJointInfo(targid, jointid)[3]
+jType = p.getJointInfo(targid, jointid)
+jLower = p.getJointInfo(targid, jointid)[8]
 jUpper = p.getJointInfo(targid, jointid)[9]
 
 
