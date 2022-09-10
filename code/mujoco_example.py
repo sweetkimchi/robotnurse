@@ -1,0 +1,3 @@
+import mujoco
+
+print("start")

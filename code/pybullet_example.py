@@ -10,7 +10,7 @@ p.setGravity(0,0,-9.8)
 p.setRealTimeSimulation(0)
 
 p.loadURDF("plane.urdf", [0,0,0],[0,0,0,1])
-targid = p.loadURDF("franka_panda/panda.urdf",[0,0,0],[0,0,0,1], useFixedBase=True)
+targid = p.loadURDF("husky/husky.urdf",[0,0,0],[0,0,0,1])
 obj_of_focus = targid
 
 print("There are {} joint(s)".format(p.getNumJoints(targid)))
