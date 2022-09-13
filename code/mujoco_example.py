@@ -1,6 +1,7 @@
 
 
-import mujoco as mj
+# import mujoco as mj
+from dm_control import mujoco as mj
 
 
 def main():
