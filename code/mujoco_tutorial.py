@@ -120,8 +120,8 @@ okay = PIL.Image.fromarray(pixels)
 # @title A child body with a joint { vertical-output: true }
 
 
-video_name = "flag"
-with open('../models/flag/flag.xml', 'r') as f:
+video_name = "reacher"
+with open('../models/reacher.xml', 'r') as f:
     data = f.read()
 
 bs_data = BeautifulSoup(data,"xml")
